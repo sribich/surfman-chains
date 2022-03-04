@@ -16,4 +16,4 @@ fnv = "1.0"
 log = "0.4"
 sparkle = "0.1"
 surfman-chains-api = "0.2"
-surfman = { git = "https://github.com/sribich/surfman", branch = "master" }
+surfman = { git = "https://github.com/sribich/surfman", rev = "93f61c300dcee98f38fa4d1b4a9c972dbf28944e" }
